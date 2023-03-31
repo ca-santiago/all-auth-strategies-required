@@ -1,0 +1,31 @@
+{
+  "name": "hapi-auth-strategies-required",
+  "version": "1.0.0",
+  "description": "Hapi plugin to enable you to apply multiple strategies for a single route, ensuring that all strategies must pass before access is granted",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "joi": "17.9.1"
+  },
+  "dependencies": {
+    "joi": "17.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ca-santiago/all-auth-strategies-required.git"
+  },
+  "keywords": [
+    "Hapi",
+    "Plugin",
+    "Auth"
+  ],
+  "author": "Carmen Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ca-santiago/all-auth-strategies-required/issues"
+  },
+  "homepage": "https://github.com/ca-santiago/all-auth-strategies-required#readme"
+}
