@@ -4,7 +4,7 @@ This Hapi plugin enables you to apply multiple strategies for a single route, en
 
 ## Install
 ``` bash
-npm i @ca-santiago/hapi-all-strategies-required
+npm i hapi-auth-strategies-required
 ```
 
 ## Usage
