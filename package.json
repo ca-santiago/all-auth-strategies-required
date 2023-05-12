@@ -1,6 +1,6 @@
 {
   "name": "hapi-auth-strategies-required",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hapi plugin to enable you to apply multiple strategies for a single route, ensuring that all strategies must pass before access is granted",
   "main": "lib/index.js",
   "module": "lib/index.js",
